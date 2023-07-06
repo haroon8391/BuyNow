@@ -1,0 +1,6 @@
+.nav-link:hover {
+    font-size: 1.1rem;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    color: #f9004d;
+}
